@@ -1,0 +1,7 @@
+use_frameworks!
+
+platform :ios, '14.0'
+
+target 'CleverTap Integration' do
+  pod "CleverTap-iOS-SDK", '~> 5.0.1'
+end
